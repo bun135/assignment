@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 10, 2023, 12:30:30 AM
+    Author     : ACER
+*/
+body{
+    background-image: url("img/hihihihi.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.span1{
+    color: #124DA3;
+}
+.span2{
+    color: #F37022;
+}
+.span3{
+    color: #4EB748;
+}
+.container{
+    padding-top: 50px;
+}
+.row{
+    font-family: Tahoma, Verdana, sans-serif;
+    font-weight: bold;
+}
